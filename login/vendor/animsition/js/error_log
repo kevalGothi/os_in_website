@@ -1,0 +1,80 @@
+[18-Jan-2025 09:36:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:10 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:12 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:14 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:15 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:16 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:18 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:20 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
+[18-Jan-2025 09:36:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 90
+[18-Jan-2025 09:36:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 92
+[18-Jan-2025 09:36:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 190
+[18-Jan-2025 09:36:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type bool in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 196
+[18-Jan-2025 09:36:22 America/Chicago] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php:198
+Stack trace:
+#0 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(94): LookupGenreName(NULL, false)
+#1 /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php(307): find_plugin_for_slug(false)
+#2 {main}
+  thrown in /home4/ramwerde/creativewebhub.com/sr/formsoftware/login/vendor/animsition/js/765dc48c.php on line 198
